@@ -1,0 +1,39 @@
+2017-11-10 16:11:23,780 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mongo.micheal:mongo_app:0.0.1-SNAPSHOT @ C:\Users\micheal\Desktop\Mongo_DB\mongo_app\pom.xml.
+2017-11-10 16:11:28,042 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mongo.micheal:mongo_app:0.0.1-SNAPSHOT @ C:\Users\micheal\Desktop\Mongo_DB\mongo_app\pom.xml.
+2017-11-10 16:11:42,993 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-10 16:11:42,994 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micheal\Desktop\Mongo_DB\mongo_app\src\main\resources
+2017-11-10 16:11:43,002 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-10 16:11:43,002 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micheal\Desktop\Mongo_DB\mongo_app\src\test\resources
+2017-11-10 16:12:04,770 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mongo.micheal:mongo_app:0.0.1-SNAPSHOT @ C:\Users\micheal\Desktop\Mongo_DB\mongo_app\pom.xml.
+2017-11-10 16:12:06,208 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-10 16:12:06,210 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micheal\Desktop\Mongo_DB\mongo_app\src\main\resources
+2017-11-10 16:12:06,228 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-10 16:12:06,231 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micheal\Desktop\Mongo_DB\mongo_app\src\test\resources
+2017-11-10 23:01:37,871 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-10 23:01:37,892 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micheal\Desktop\Mongo_DB\mongo_app\src\main\resources
+2017-11-10 23:01:37,899 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-10 23:01:37,899 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micheal\Desktop\Mongo_DB\mongo_app\src\test\resources
+2017-11-10 23:01:48,620 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-10 23:01:48,624 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micheal\Desktop\Mongo_DB\mongo_app\src\main\resources
+2017-11-10 23:01:48,686 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-10 23:01:48,686 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micheal\Desktop\Mongo_DB\mongo_app\src\test\resources
+2017-11-10 23:02:32,331 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-10 23:02:32,332 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micheal\Desktop\Mongo_DB\mongo_app\src\main\resources
+2017-11-10 23:02:32,341 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-10 23:02:32,342 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micheal\Desktop\Mongo_DB\mongo_app\src\test\resources
+2017-11-10 23:02:36,606 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-10 23:02:36,607 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micheal\Desktop\Mongo_DB\mongo_app\src\main\resources
+2017-11-10 23:02:36,612 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-10 23:02:36,613 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micheal\Desktop\Mongo_DB\mongo_app\src\test\resources
+2017-11-10 23:02:49,547 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-10 23:02:49,547 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micheal\Desktop\Mongo_DB\mongo_app\src\main\resources
+2017-11-10 23:02:49,551 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-10 23:02:49,552 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micheal\Desktop\Mongo_DB\mongo_app\src\test\resources
+2017-11-10 23:02:56,116 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-10 23:02:56,201 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micheal\Desktop\Mongo_DB\mongo_app\src\main\resources
+2017-11-10 23:02:56,217 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-10 23:02:56,218 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micheal\Desktop\Mongo_DB\mongo_app\src\test\resources
+2017-11-10 23:03:05,597 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-10 23:03:05,598 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micheal\Desktop\Mongo_DB\mongo_app\src\main\resources
+2017-11-10 23:03:05,601 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-10 23:03:05,601 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micheal\Desktop\Mongo_DB\mongo_app\src\test\resources
